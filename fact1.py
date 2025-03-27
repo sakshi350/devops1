@@ -5,5 +5,5 @@ for  i in range(1,num+1):
 print(f"the factorial of {num} is {factorial} ")     
 print(f"the factorial of {num} is {factorial} ") 
 print(f"the factorial of {num} is {factorial} ") 
-print("sakshi")
-print("sayali")
+print("sanika")
+
